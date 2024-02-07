@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Williams",
+    "age": 108,
+    "address": {
+        "street": "Amy Coves",
+        "city": "Bradleybury",
+        "state": "Vermont",
+        "zip": "73342"
+    },
+    "contact": {
+        "phone": "+1-632-836-0162x2717",
+        "servicePhone": "800732510"
+    },
+    "birthday": "1917-28-02",
+    "ip": "31.127.7.128",
+    "foo": "bar",
+    "profile": {
+        "about": "Still stuff box. Local prove cause add officer television approach Democrat. Despite student final meeting Congress.",
+        "bio": "Threat could candidate view indicate star remain. Pressure method ahead mother mouth.\nAhead consumer collection lot. Player good sometimes itself different surface."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
