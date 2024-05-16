@@ -1,0 +1,25 @@
+{
+    "name": "Wayne Mendez",
+    "age": 7,
+    "address": {
+        "street": "Nicole Overpass",
+        "city": "Joshuaville",
+        "state": "California",
+        "zip": "43184"
+    },
+    "contact": {
+        "phone": "617-427-8206x4052",
+        "servicePhone": "800848974"
+    },
+    "birthday": "2018-09-02",
+    "ip": "210.138.103.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring might deep hotel security near popular. Prove yeah once floor key use.\nForeign seat security. Other build industry month hold system nature.",
+        "bio": "Future character keep low fill ever. Moment suggest quite."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
