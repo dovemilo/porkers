@@ -1,0 +1,25 @@
+{
+    "name": "Michael Nicholson",
+    "age": 42,
+    "address": {
+        "street": "Gibson Centers",
+        "city": "Port Morganshire",
+        "state": "Arkansas",
+        "zip": "46395"
+    },
+    "contact": {
+        "phone": "+1-654-486-4320x17849",
+        "servicePhone": "800040181"
+    },
+    "birthday": "1983-09-10",
+    "ip": "96.252.168.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Pay song chance. Machine car rest career.\nLearn drive set word capital reality pay live. Individual senior carry may.",
+        "bio": "Participant six care skill. Church series heavy about win center.\nInterview either surface true. Suffer little final think. Price grow per series degree purpose my."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
