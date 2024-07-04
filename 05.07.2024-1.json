@@ -1,0 +1,25 @@
+{
+    "name": "Keith Morgan",
+    "age": 45,
+    "address": {
+        "street": "Hardy Path",
+        "city": "Stephensonshire",
+        "state": "Arkansas",
+        "zip": "14046"
+    },
+    "contact": {
+        "phone": "408.473.6467",
+        "servicePhone": "800865048"
+    },
+    "birthday": "1980-25-04",
+    "ip": "55.119.54.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Room fish mouth wife key reach. Stay sit tend half treatment.\nAct try certain soldier. Win carry take only strong news doctor. Environmental look range fire compare.",
+        "bio": "As east alone everybody tough finally. Worry these modern away best itself half.\nSoon responsibility thank serious hope."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
