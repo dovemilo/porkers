@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Nelson",
+    "age": 91,
+    "address": {
+        "street": "Catherine Burg",
+        "city": "Robinton",
+        "state": "Florida",
+        "zip": "09422"
+    },
+    "contact": {
+        "phone": "001-787-357-5896",
+        "servicePhone": "800725232"
+    },
+    "birthday": "1934-04-08",
+    "ip": "185.51.219.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Recent PM kitchen all rich at scene. Final process whole.\nSouthern cup amount future continue education avoid. Kitchen federal authority enjoy film.",
+        "bio": "Cut major case other tree.\nWear evidence outside should above put.\nThrough sure television rate. Official rock walk enjoy."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
