@@ -1,0 +1,25 @@
+{
+    "name": "Jaime Brown",
+    "age": 98,
+    "address": {
+        "street": "Lisa Place",
+        "city": "Alexandertown",
+        "state": "Washington",
+        "zip": "97979"
+    },
+    "contact": {
+        "phone": "001-679-901-8606x14556",
+        "servicePhone": "800790506"
+    },
+    "birthday": "1927-24-04",
+    "ip": "53.196.181.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead time ability performance likely along along. Partner down local tonight.\nBoth above security west. Crime who sister page necessary time law newspaper. Wear white consumer remain side.",
+        "bio": "For two many suffer mean. Color simply force up your occur activity."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
