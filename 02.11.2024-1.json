@@ -1,0 +1,25 @@
+{
+    "name": "Katie Mcclain",
+    "age": 85,
+    "address": {
+        "street": "Miller Ferry",
+        "city": "New Christopher",
+        "state": "Minnesota",
+        "zip": "87989"
+    },
+    "contact": {
+        "phone": "001-698-469-1386",
+        "servicePhone": "800206597"
+    },
+    "birthday": "1940-29-06",
+    "ip": "60.255.239.39",
+    "foo": "bar",
+    "profile": {
+        "about": "She response prevent ask why soon. On gas check half whose seat my.\nSon tend four out. Learn spend fish avoid inside.",
+        "bio": "Follow student officer pretty interview.\nArrive production story much art lot use analysis. American so dog three inside."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
