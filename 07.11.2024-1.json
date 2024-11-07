@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Cox",
+    "age": 22,
+    "address": {
+        "street": "Sheri Trafficway",
+        "city": "Samanthafurt",
+        "state": "California",
+        "zip": "08301"
+    },
+    "contact": {
+        "phone": "972-772-9755",
+        "servicePhone": "800150217"
+    },
+    "birthday": "2003-25-08",
+    "ip": "152.205.180.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply face natural state interview ground. Own catch program it get use type bring.\nIndividual chair interview group. According because kitchen.",
+        "bio": "Against human you. Appear kitchen citizen sure stock appear next.\nNorth total sound help provide kitchen certainly. News little probably fund couple will collection."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
