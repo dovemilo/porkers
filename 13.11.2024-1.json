@@ -1,0 +1,25 @@
+{
+    "name": "Virginia Cooper",
+    "age": 48,
+    "address": {
+        "street": "Michael Forges",
+        "city": "North Carmenport",
+        "state": "Massachusetts",
+        "zip": "76265"
+    },
+    "contact": {
+        "phone": "+1-300-754-2976x49726",
+        "servicePhone": "800097805"
+    },
+    "birthday": "1977-13-09",
+    "ip": "209.154.112.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure back president modern town laugh rule. Day goal resource your close provide.\nTend seem minute decision most senior. Too hour finally economy what wife.",
+        "bio": "Add without two. Line suffer which college reduce their statement.\nReally they while. Glass clear sport then identify a. Consider feel sound stay."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
