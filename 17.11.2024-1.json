@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Thornton",
+    "age": 85,
+    "address": {
+        "street": "Tina Trail",
+        "city": "Parkerbury",
+        "state": "Tennessee",
+        "zip": "43916"
+    },
+    "contact": {
+        "phone": "+1-694-698-2094x8270",
+        "servicePhone": "800542027"
+    },
+    "birthday": "1940-26-01",
+    "ip": "21.196.240.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear cover my beat figure who perform. Party answer system grow court husband their.",
+        "bio": "Name art church here reason actually knowledge. Station article guess several happen baby.\nWide operation should. Apply window wide spring."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
