@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Peters",
+    "age": 12,
+    "address": {
+        "street": "Kim Station",
+        "city": "Huntside",
+        "state": "Tennessee",
+        "zip": "56581"
+    },
+    "contact": {
+        "phone": "(737)650-4589x23345",
+        "servicePhone": "800476733"
+    },
+    "birthday": "2013-21-08",
+    "ip": "62.209.218.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Enough quickly study financial woman. Allow experience job first job human. Amount relationship establish know film test reality.",
+        "bio": "Quality certain sign education fact dog range. Life ok test brother several trip current.\nSuch history success order police might. Month catch each both child."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
